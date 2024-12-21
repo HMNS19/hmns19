@@ -4,7 +4,7 @@
 
 </p>
 <h1><strong>🌟About Me:</strong></h1>
-Hey! I'm Himanshu, an AI enthusiast from India. I recently dove into the world of machine learning, and I've been completely captivated by it.
+Hey! I'm Himanshu, an ML enthusiast from India. I recently dove into the world of machine learning, and I've been completely captivated by it.
 <ul>
   <li>💻 I'm currently learning Python and exploring libraries like TensorFlow and PyTorch to build my ML skills</li>
   <li>🤖 Looking to collaborate on ML projects, data analysis, and participate in Kaggle competitions.</li>
